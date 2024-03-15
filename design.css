@@ -947,8 +947,12 @@ nav .fa-solid{
         padding-top: 50px;
         z-index: 2;
         transition: right 0.5s;
-
     }
+    
+    .about-col-2{
+        padding: 0;
+    }
+    
     nav ul li{
         display: block;
         margin: 25px;
