@@ -872,28 +872,29 @@ nav .fa-solid{
 
     .hireBtn{
         
-        margin: 0;
+        margin: 3%;
         padding: 10px;
         justify-content: center; 
     }
 
     .btn1{
         
-        margin: 0;
+        margin:3%;
         padding: 10px;
         justify-content: center;
         align-items: center; 
     }
 
-     .home-content {
+    .home-content {
         max-width: 100%;
         font-size: 16px;
         text-align: center;
         position: relative;
         background:transparent;
-        bottom: 50px;
+        bottom: 100px;
         left: 0px;
         border-radius: 15px;
+        
     }
 
     
